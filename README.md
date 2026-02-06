@@ -1,7 +1,7 @@
 # Desafio Consulta Vendas
 
 API REST de consultas de vendas desenvolvida em **Java com Spring Boot** como parte do desafio do curso **Java Spring Professional** da DevSuperior.  
-Este projeto implementa consultas JPA personalizadas para gerar relatórios de vendas com filtros por datas e nome do vendedor, com paginação e boas práticas de desenvolvimento. :contentReference[oaicite:1]{index=1}
+Este projeto implementa consultas JPA personalizadas para gerar relatórios de vendas com filtros por datas e nome do vendedor, com paginação e boas práticas de desenvolvimento. 
 
 ---
 
